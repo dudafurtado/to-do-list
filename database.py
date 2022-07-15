@@ -1,0 +1,1 @@
+db = ['eat delicious foods', 'kill the bad energy', 'love myself']
