@@ -29,3 +29,8 @@ API rest built with the PYTHON language and framework FLASK to a technical chall
 
 
 *I am not a phyton expert* ***yet***.
+
+
+### After start the project use this link on postman or insomnia, please
+
+> http://127.0.0.1:5000/
